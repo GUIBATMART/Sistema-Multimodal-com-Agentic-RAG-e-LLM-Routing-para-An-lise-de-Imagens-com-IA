@@ -45,12 +45,4 @@ O sistema é composto por:
 - FAISS
 - HuggingFace Embeddings
 
----
 
-## 📦 Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
